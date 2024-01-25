@@ -1,0 +1,6 @@
+[submodule "reddit-politics-data"]
+	path = reddit-politics-data
+	url = git@github.com:ReedMerrill/reddit-politics-data.git
+[submodule "reddit-scraper"]
+	path = reddit-scraper
+	url = git@github.com:ReedMerrill/reddit-scraper.git
