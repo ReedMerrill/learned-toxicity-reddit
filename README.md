@@ -1,1 +1,1 @@
-This project tests whether reddit users are socialized into toxic by performing analyzing how changes in toxicity of a reddit user's engagement over time.
+This project tests whether Reddit users are learn toxic behavior as they use the platform. It analyzes changes in the toxicity of engagements of Reddit user over time and in relation to how much toxic content they encounter.
