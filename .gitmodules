@@ -1,6 +1,3 @@
-[submodule "reddit-politics-data"]
-	path = reddit-politics-data
-	url = git@github.com:ReedMerrill/reddit-politics-data.git
 [submodule "reddit-api"]
 	path = reddit-api
 	url = git@github.com:ReedMerrill/reddit-api.git
