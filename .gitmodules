@@ -4,3 +4,6 @@
 [submodule "waller-anderson-2020-data"]
 	path = waller-anderson-2020-data
 	url = git@github.com:ReedMerrill/waller-anderson-2020-data.git
+[submodule "reddit-toxicity-analysis"]
+	path = reddit-toxicity-analysis
+	url = git@github.com:ReedMerrill/reddit-toxicity-analysis.git
