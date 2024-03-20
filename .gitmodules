@@ -7,3 +7,6 @@
 [submodule "reddit-toxicity-analysis"]
 	path = reddit-toxicity-analysis
 	url = git@github.com:ReedMerrill/reddit-toxicity-analysis.git
+[submodule "toxicity-writing"]
+	path = toxicity-writing
+	url = git@github.com:ReedMerrill/toxicity-writing.git
