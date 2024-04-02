@@ -10,3 +10,6 @@
 [submodule "toxicity-writing"]
 	path = toxicity-writing
 	url = git@github.com:ReedMerrill/toxicity-writing.git
+[submodule "GPPMA-final-pres"]
+	path = GPPMA-final-pres
+	url = git@github.com:ReedMerrill/GPPMA-final-pres.git
